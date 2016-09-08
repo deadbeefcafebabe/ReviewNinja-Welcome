@@ -20,7 +20,7 @@ too. Flags are as follows:
 - The issue has been resolved.
 
 To add a flag simply leave a comment with your desired flag. For
-convenience we also have a dropdown menu to add these comments
+convenience we also have a drop-down menu to add these comments
 automatically.
 
 Another key feature you need to know about is ninja stars. Ninja 
